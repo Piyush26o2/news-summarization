@@ -1,0 +1,6 @@
+newspaper3k
+tfds-nightly
+torch
+transformers
+nltk
+textblob
